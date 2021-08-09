@@ -13,7 +13,7 @@ If you want to see what this site looks like, you will have to download the base
 Made by Shannon Dukes
 
 
-![alt text](porfolio-generator-img.png)
+![alt text](portfolio-generator-img.png)
 
 ### ©️2021 Shannon Dukes
 
